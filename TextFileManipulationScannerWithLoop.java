@@ -2,7 +2,7 @@ import java.io.File;
 import java.util.Scanner;
 public class TextFileManipulationScannerWithLoop
 {
-	public static void main(String[] ards) throws Exception
+	public static void main(String[] args) throws Exception
 	{
 	File file = new File("jancarluzdeleon.txt");
 	Scanner sc = new Scanner(file);
